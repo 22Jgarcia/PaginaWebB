@@ -1,0 +1,4 @@
+user   =  contra
+admin     admin
+soporte   soporte123
+supervisor  sup2024
